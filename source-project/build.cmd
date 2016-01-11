@@ -1,0 +1,1 @@
+mvn clean compile gwt:compile -Dgwt.superDevMode=false war:war

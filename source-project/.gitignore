@@ -1,0 +1,14 @@
+# Build folder
+target/
+
+# IDE settings
+.classpath
+.project
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Temp
+tmp/
