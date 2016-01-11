@@ -8,4 +8,4 @@
 
 This is a modified version of [gwt-maven-archetype](https://github.com/xlavs/gwt-maven-archetype). This version is altered to produce the same functionality but uses widgets from [gwtbootstrap3](https://github.com/gwtbootstrap3/gwtbootstrap3) project.
 
-Look [gwt-maven-archetype](https://github.com/xlavs/gwt-maven-archetype) for more details on how generate custom Maven archetypes and how to make GWT work with Maven. Sample includes an RPC call from GWT generated fronted to the serverside "servlet". Special care is taken to make sure that this sample can be deployed and works on Tomcat application server.
+Look [gwt-maven-archetype](https://github.com/xlavs/gwt-maven-archetype) for more details on how to generate custom Maven archetypes and how to make GWT work with Maven. Sample includes an RPC call from GWT generated frontend to the serverside "servlet". Special care is taken to make sure that this sample can be deployed and works on Tomcat application server.
